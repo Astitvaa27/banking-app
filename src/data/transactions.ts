@@ -1,0 +1,42 @@
+export const transactions = [
+  {
+    id: 1,
+    title: "Amazon",
+    amount: -2499,
+    date: "22 Jul 2026",
+    category: "Shopping",
+    status: "Completed",
+  },
+  {
+    id: 2,
+    title: "Salary",
+    amount: 45000,
+    date: "20 Jul 2026",
+    category: "Income",
+    status: "Completed",
+  },
+  {
+    id: 3,
+    title: "Swiggy",
+    amount: -620,
+    date: "18 Jul 2026",
+    category: "Food",
+    status: "Completed",
+  },
+  {
+    id: 4,
+    title: "Electricity Bill",
+    amount: -1750,
+    date: "15 Jul 2026",
+    category: "Bills",
+    status: "Completed",
+  },
+  {
+    id: 5,
+    title: "Netflix",
+    amount: -649,
+    date: "12 Jul 2026",
+    category: "Entertainment",
+    status: "Completed",
+  },
+];
